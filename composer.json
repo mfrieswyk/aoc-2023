@@ -1,0 +1,16 @@
+{
+    "name": "mfrieswyk/aoc-2023",
+    "description": "mfrieswyk's AoC 2023",
+    "autoload": {
+        "psr-4": {
+            "Mfrieswyk\\Aoc2023\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matthew Frieswyk",
+            "email": "matthew.frieswyk@gmail.com"
+        }
+    ],
+    "require": {}
+}
