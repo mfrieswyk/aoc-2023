@@ -11,3 +11,9 @@ Where `<day>` is the day you want to create. For example, to create day 01, run:
 ```bash
 ./src/new_day.sh 01
 ```
+
+
+To run a solution:
+```php
+php ./src/<day>/solution.php
+```
